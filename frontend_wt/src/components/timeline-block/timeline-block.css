@@ -1,0 +1,18 @@
+.vertical-line {
+  border-left: 2px solid #ccc;
+  height: 50px;
+  margin-top: 10px;
+}
+
+.date {
+  font-weight: bold;
+  font-size: 24px;
+}
+
+.date span {
+  font-size: 36px;
+}
+
+.border-dotted {
+  border-style: dotted; /* Pontozott vonal beállítása */
+}
